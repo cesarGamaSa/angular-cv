@@ -1,4 +1,5 @@
 # AngularCv
+Angular project where I display my personal CV as well as some Angular knowledge.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
 
